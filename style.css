@@ -1,0 +1,32 @@
+.azul{
+    background-color: #DA8394;
+}
+
+.blanco{
+    color: white!important;
+}
+
+.logo{
+    height: 50px;
+}
+
+.md-pills .nav-link.active {
+    color: #fff;
+    background-color: #616161;
+  }
+  button.close {
+    position: absolute;
+    right: 0;
+    z-index: 2;
+    padding-right: 1rem;
+    padding-top: .6rem;
+  }
+
+  .texto-bomnito{
+      color: #6e0071;
+  }
+
+.imagencall{
+    background-image:url(img/ban5.png);
+    background-size:cover;
+}
