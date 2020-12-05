@@ -25,3 +25,8 @@
   .texto-bomnito{
       color: #6e0071;
   }
+
+.imagencall{
+    background-image:url(img/ban5.png);
+    background-size:cover;
+}
