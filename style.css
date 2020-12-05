@@ -30,3 +30,11 @@
     background-image:url(img/ban5.png);
     background-size:cover;
 }
+
+.h1,h2,h3{
+    font-family: 'Do Hyeon', sans-serif;;
+}
+
+.h4,h5,h6,p{
+    font-family: 'Roboto', sans-serif;;
+}
